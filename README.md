@@ -26,3 +26,5 @@ Twitterにもイベント、勉強会の情報を流しています。
 D%E9%83%A8) 
 
 [★Youtubeでは、ショートセッションを収録しています。](https://www.youtube.com/playlist?list=PL2ojdc4KhtHniIyIUx3AdO621ydzz5zpP)
+
+コメント追加
